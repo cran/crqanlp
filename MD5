@@ -1,0 +1,16 @@
+cee793b2cfd4f8b2c40a2a30f176045f *DESCRIPTION
+dfe90cb5688508036d122eed832dc250 *NAMESPACE
+ec768ab42fb2479dc99153713ecf57a9 *R/assign_codes.R
+e5cca267fee0ce8e4d77fafe9df7a6b5 *R/clean_text.R
+8fe48632eb140b936ad5272ad87496a1 *R/get_text_series.R
+54094ac819ffdda6772b5eb6d3cdd4da *R/plot_rp.R
+b5a9ee7dcf8bf10852ddce314bc74a72 *R/text_rqa.R
+6f199c5b579b19aa5ea21bd1a7b8661a *R/text_win_rqa.R
+8ef80e3df958a242742ba1b00aeaef48 *README.md
+f25e232fb6cd69171477e2deb9428bdc *man/assign_codes.Rd
+5f502018e7502a1f80e1a430e48d06a9 *man/clean_text.Rd
+20692654daa88e5e806ac6f15affeb91 *man/crqanlp-package.Rd
+784678720e30c5ab18188d75a60d9069 *man/get_text_series.Rd
+de4fbe725e4ab70a3f225fce2d6cc56d *man/plot_rp.Rd
+ec45393339fcffb3cdbecbd4d814a39f *man/text_rqa.Rd
+1c5e8854398a11886f52347285f9166b *man/text_win_rqa.Rd
